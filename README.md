@@ -14,6 +14,10 @@ Z - Z axis*
 * Orbit - Middle mouse button / Gizmo axes
 * Pan - Shift + Middle mouse
 * Focus on Object -  Number Pad . (Period)
+* Orthographic Mode  
+* * Number Pad 1-  Front View  
+* * Number Pad 3 - Side view  
+* * Number Pad 7 - Top View
 
 
 # Tools
