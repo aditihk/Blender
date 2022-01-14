@@ -17,8 +17,10 @@ Z - Z axis*
 * Views:  
 * * Number Pad 1-  Front View  
 * * Number Pad 3 - Side view  
-* * Number Pad 7 - Top View
+* * Number Pad 7 - Top View  
+* * Number Pad 0 - Camera View
 * Orthographic/ Perspective - No. Pad 5/ Grid like thing on right hand
+
 
 
 # Tools
