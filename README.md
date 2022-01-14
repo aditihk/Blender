@@ -10,9 +10,12 @@ Z - Z axis*
 * Rotate - R
 * Scale - S  
 *Cancel movement by right key or esc*
-* Select Object -  Number Pad . (Period)
+* Zoom - Ctrl + middle mouse/ magnify glass / scroll
+* Orbit - Middle mouse button / Gizmo axes
+* Pan - Shift + Middle mouse
+* Focus on Object -  Number Pad . (Period)
 
 
 # Tools
 * Move - grab
-* 
+* Pan - Hand in right corner
